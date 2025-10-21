@@ -14,8 +14,8 @@ type FilaTarea = {
 };
 
 export default function App() {
-	// const [contador, setContador] = useState<number>(0);
-	// const [datos, setDatos] = useState<Array<RickMortyType>>([]);
+	 const [contador, setContador] = useState<number>(0);
+	 const [datos, setDatos] = useState<Array<RickMortyType>>([]);
 
 	/* const obtenerDatos = async () => {
 		try {
